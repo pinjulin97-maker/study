@@ -1,13 +1,16 @@
-# Title
+# <short problem name>
 
 Source:
 Date:
 
-## Problem / Topic
+## Problem
+<the question>
 
+## Working
+<your steps>
 
-## My working
+## Answer
+<final answer>
 
-
-## Key points / mistakes to avoid
-
+## Notes (optional)
+<what the problem taught you / a mistake to avoid>
